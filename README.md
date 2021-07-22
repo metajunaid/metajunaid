@@ -1,7 +1,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=metajunaid" />
-### Hello World! 👋 
-### This is Md Junaid Alam.
+
+### Hello World!  👋
+## This is Md Junaid Alam.
 You can call me Junaid.
 
 I am a Front End Web Developer, on a way to become a Full Stack Developer.
